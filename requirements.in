@@ -7,3 +7,5 @@ openpyxl
 xlrd
 SQLAlchemy
 psycopg2-binary
+ydata-profiling
+ipykernel

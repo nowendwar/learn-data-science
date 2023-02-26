@@ -1,3 +1,5 @@
 .env/
 data/
 fig/
+*.code-workspace
+report/
